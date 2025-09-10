@@ -137,3 +137,17 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+
+# env files (important for hiding API keys!)
+.env
+.env.local
+.env.*.local
+
+# misc
+.DS_Store
