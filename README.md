@@ -11,7 +11,7 @@ A simple and stylish weather app built with **React** and the [OpenWeather API](
 ## 🛠️ Technologies
 - React (useState, props, fetch API)  
 - OpenWeather API  
-- CSS (gradient + glassmorphism effects)  
+- CSS (gradient + glassmorphism effects styling with help from AI tools)  
 
 ## 📸 Screenshot
 ![App Screenshot](screenshot.png)
